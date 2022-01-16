@@ -1,0 +1,7 @@
+version: 13
+imports:
+- projectPath: commons
+  tag: v1
+properties:
+- name: github-repo
+  value: firgaty/firgaty.github.io
